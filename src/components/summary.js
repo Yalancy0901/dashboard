@@ -1,10 +1,12 @@
 import React from 'react';
 import { Box, Grid, Typography, Card, CardContent } from '@mui/material';
 import { Line } from 'react-chartjs-2';
-import 'chart.js/auto';  // Important: This registers all necessary Chart.js components
+import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend } from 'chart.js';
 
-function Dashboard() {
-  // Data for the line chart
+// Register necessary components for Chart.js
+ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
+
+const Dashboard = () => {
   const data = {
     labels: ['Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep'],
     datasets: [
@@ -15,8 +17,17 @@ function Dashboard() {
     ],
   };
 
+  const options = {
+    responsive: true,
+    plugins: {
+      legend: {
+        position: 'top',
+      },
+    },
+  };
+
   return (
-    <Box sx={{ bgcolor: '#121212', color: '#fff', minHeight: '100vh', p: 2 }}>
+    <Box>
       <Typography variant="h4" gutterBottom>Rail Madad 2.0</Typography>
       <Grid container spacing={2}>
         <Grid item xs={3}>
@@ -57,7 +68,7 @@ function Dashboard() {
         <Typography variant="h6" gutterBottom>Complaint Platforms</Typography>
         <Card sx={{ bgcolor: '#333' }}>
           <CardContent>
-            <Line data={data} options={{ responsive: true, plugins: { legend: { position: 'top' } } }} />
+            <Line data={data} options={options} />
           </CardContent>
         </Card>
       </Box>
@@ -76,8 +87,6 @@ function Dashboard() {
       </Grid>
     </Box>
   );
-}
+};
 
-export default function App() {
-  return <Dashboard />;
-}
+export default Dashboard;
