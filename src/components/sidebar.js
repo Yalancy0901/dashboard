@@ -14,7 +14,10 @@ import {
   Group as BehaviorIcon,
   Gavel as CorruptionIcon,
   Category as MiscellaneousIcon,
+  Train as TrainIcon,
+
 } from '@mui/icons-material';
+import LocationOnIcon from '@mui/icons-material/LocationOn';
 
 const Sidebar = () => {
   const navigate = useNavigate();
@@ -23,6 +26,8 @@ const Sidebar = () => {
     { label: 'Reports', icon: <ReportIcon />, path: '/reports' },
     { label: 'All Complaints', icon: <AssignmentIcon />, path: '/complaints' },
     { label: 'System Works', icon: <HomeIcon />, path: '/system-works' },
+    { label: 'Trains', icon: <TrainIcon />, path: '/trains' },
+    { label: 'Stations', icon: <LocationOnIcon />, path: '/stations' },
   ];
 
   const departmentItems = [
@@ -49,11 +54,7 @@ const Sidebar = () => {
         display: 'flex',
         flexDirection: 'column',
       }}
-    >
-      <Box sx={{ display: 'flex', alignItems: 'center', mb: 4 }}>
-        <Typography variant="h5" sx={{ color: '#00FF00', fontWeight: 'bold' }}>G20</Typography>
-        {/* You can add any logo here as an <img /> tag if needed */}
-      </Box>
+    > 
 
       <List>
         {mainMenuItems.map((item, index) => (
