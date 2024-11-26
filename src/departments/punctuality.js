@@ -5,7 +5,7 @@ const fetchPunctualityData = async () => {
     records: [
       {
         id: 1,
-        title: "Train delayed due to signal issues.",
+        title: "Train delayed due to signal issues, which we were not even informed",
         dept: "Punctuality",
         subDept: "Signal Management",
         severity: "HIGH",

@@ -13,6 +13,7 @@ import Punctuality from './departments/punctuality';
 import Divyang from './departments/divyang';
 import Miscellaneous from './departments/micellaneous';
 import CorruptionAndBribery from './departments/corruptionAndBribary';
+import AllComplaints from './components/complaints';
 import { Box } from '@mui/material';
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
           <Box sx={{ width: '80%', bgcolor: '#333', color: '#fff', padding: '16px' }}>
             <Routes>
               <Route path="/" element={<Navigate to="/reports" replace />} />
+              <Route path="/complaints" element={<AllComplaints />}/>
               <Route path="/reports" element={<Dashboard />} />
               <Route path="/coach-cleanliness" element={<CoachCleanliness />} />
               <Route path="/catering-services" element={<Catering />} />
