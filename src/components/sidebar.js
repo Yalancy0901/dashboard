@@ -54,7 +54,6 @@ const Sidebar = () => {
         flexDirection: 'column',
       }}
     >
-      {/* Main Menu */}
       <List>
         {mainMenuItems.map((item, index) => (
           <ListItem
@@ -73,8 +72,6 @@ const Sidebar = () => {
       </List>
 
       <Divider sx={{ my: 2, bgcolor: '#555' }} />
-
-      {/* Department Menu */}
       <Typography variant="caption" sx={{ color: '#888', mb: 1 }}>
         DEPARTMENTS
       </Typography>
