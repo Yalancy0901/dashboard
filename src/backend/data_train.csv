@@ -1,0 +1,208 @@
+pnr_number,complaint_description,category,subcategory,complaint_status,complaint_id,complainant_id,Images,Audio,Video,Date_of_issue,Complaint_create_at
+4620089415,"The washbasin in the coach was not functioning properly. It was leaking water everywhere, making the floor slippery. The coach interior was also dirty, with stains on the seats. We had to wait for a long time to get a clean coach. The staff was unresponsive to our complaints. ",Coach Cleanliness,Coach Interior,Closed,1,1234561,,,,7/1/2024,7/1/2024
+4620089416,The food served in the train was not hygienic. It was overpriced and the quality was poor. The staff was not helpful in resolving the issue. ,Catering & vending Services,Service Quality & Hygiene,Under Investigation,2,2345672,,,,7/1/2024,7/2/2024
+4620089417,"The divyangjan coach was not available. We had to travel in a general coach, which was not suitable for our needs. The staff was not aware of the facility and could not provide any assistance. ",Divyangjan Facilities,Divyangjan coach unavailability,Resolved,3,3456783,,,,7/2/2024,7/3/2024
+4620089418,The water vending machines were not working. We had to purchase bottled water at an inflated price. The staff was not responsive to our complaints. ,Water Availability,Water Vending Machines,Awaiting Response,4,4567894,,,, 01-07-2024,7/4/2024
+4620089419,"The coach exterior was dirty, with graffiti and stains. The staff was not taking any action to clean the coach. ",Coach Cleanliness,Coach Exterior,In Progress,5,5678905,,,,7/3/2024,7/5/2024
+4620089420,The staff was misbehaving with the passengers. They were not helpful and were not responding to our complaints. ,Staff Behaviour,Staff Behaviour,Escalated,6,6789016,,,,7/3/2024,7/4/2024
+4620089421,The toilet was not clean. It was stinking and there were cockroaches present. The staff was not taking any action to clean the toilet. ,Coach Cleanliness,Toilet,Closed,7,9876547,,,,7/4/2024,7/5/2024
+4620089422,The NTES app was not showing the correct train schedule. We had to wait for a long time to board the train. The staff was not helpful in resolving the issue. ,Punctuality,NTES APP,Under Investigation,8,8765438,,,,7/4/2024,7/6/2024
+4620089423,The baby food was not available. We had to purchase it from outside the train. The staff was not aware of the facility and could not provide any assistance. ,Facilities for women with special needs,Baby Food,Resolved,9,7654329,,,,7/5/2024,7/7/2024
+4620089424,"The coach interior was dirty, with stains on the seats. The staff was not taking any action to clean the coach. ",Coach Cleanliness,Coach Interior,Awaiting Response,10,6543210,,,,7/5/2024,7/8/2024
+4620089425,The staff was not helpful in resolving the issue. They were not responsive to our complaints. ,Staff Behaviour,Staff Behaviour,Escalated,11,5432101,,,,7/6/2024,7/9/2024
+4620089426,The water was not available in the train. We had to purchase bottled water at an inflated price. The staff was not responsive to our complaints. ,Water Availability,Packaged Drinking Water / Rail Neer,Closed,12,4321092,,,,7/6/2024,7/10/2024
+4620089427,The retiring room was not available. We had to wait for a long time to get a clean retiring room. The staff was not helpful in resolving the issue. ,Water Availability,Retiring Room / Waiting Room,Awaiting Response,13,3210983,,,,7/7/2024,7/11/2024
+4620089428,The toilet was not clean. It was stinking and there were cockroaches present. The staff was not taking any action to clean the toilet. ,Coach Cleanliness,Toilet,Escalated,14,2109874,,,,7/7/2024,7/12/2024
+4620089429,The staff was misbehaving with the passengers. They were not helpful and were not responding to our complaints. ,Staff Behaviour,Staff Behaviour,Closed,15,1098765,,,,7/8/2024,7/13/2024
+4620089430,The train was late. We had to wait for a long time to board the train. The staff was not helpful in resolving the issue. ,Punctuality,Late Running,Awaiting Response,16,8907656,,,,7/8/2024,7/14/2024
+4620089431,"The coach exterior was dirty, with graffiti and stains. The staff was not taking any action to clean the coach. ",Coach Cleanliness,Coach Exterior,Solved,17,7685467,,,,7/9/2024,7/15/2024
+4620089432,The staff was not aware of the facility and could not provide any assistance. We had to purchase baby food from outside the train. ,Facilities for women with special needs,Baby Food,Resolved,18,6543678,,,,7/9/2024,7/16/2024
+4620089433,The staff was not helpful in resolving the issue. They were not responsive to our complaints. ,Staff Behaviour,Staff Behaviour,In Progress,19,5432169,,,,7/10/2024,7/17/2024
+4620089434,The water vending machines were not working. We had to purchase bottled water at an inflated price. The staff was not responsive to our complaints. ,Water Availability,Water Vending Machines,Reopened,20,4321090,,,,7/10/2024,7/18/2024
+4620089435,"The coach interior was dirty, with stains on the seats. The staff was not taking any action to clean the coach. ",Coach Cleanliness,Coach Interior,Partially Resolved,21,3210981,,,,7/11/2024,7/19/2024
+4620089436,The staff was misbehaving with the passengers. They were not helpful and were not responding to our complaints. ,Staff Behaviour,Staff Behaviour,In Progress,22,2109872,,,,7/11/2024,7/20/2024
+4620089437,The toilet was not clean. It was stinking and there were cockroaches present. The staff was not taking any action to clean the toilet. ,Coach Cleanliness,Toilet,Reopened,23,1098763,,,,7/12/2024,7/21/2024
+4620089438,The NTES app was not showing the correct train schedule. We had to wait for a long time to board the train. The staff was not helpful in resolving the issue. ,Punctuality,NTES APP,Partially Resolved,24,8907654,,,,7/12/2024,7/22/2024
+4620089439,The baby food was not available. We had to purchase it from outside the train. The staff was not aware of the facility and could not provide any assistance. ,Facilities for women with special needs,Baby Food,Resolved,25,7685465,,,,7/13/2024,7/23/2024
+4620089440,"The coach exterior was dirty, with graffiti and stains. The staff was not taking any action to clean the coach. ",Coach Cleanliness,Coach Exterior,Pending,26,6543676,,,,7/13/2024,7/24/2024
+4620089441,The staff was not helpful in resolving the issue. They were not responsive to our complaints. ,Staff Behaviour,Staff Behaviour,Delayed,27,5432167,,,,7/14/2024,7/25/2024
+4620089442,The water was not available in the train. We had to purchase bottled water at an inflated price. The staff was not responsive to our complaints. ,Water Availability,Packaged Drinking Water / Rail Neer,Escalated,28,4321096,,,,7/14/2024,7/26/2024
+4620089443,The retiring room was not available. We had to wait for a long time to get a clean retiring room. The staff was not helpful in resolving the issue. ,Water Availability,Retiring Room / Waiting Room,Abandoned,29,3210987,,,,7/15/2024,7/27/2024
+4620089415,The washbasin in our coach was clogged and there was no water available. The train was delayed by 2 hours due to this issue. The staff was also not cooperative in resolving the issue.,Coach Cleanliness,Washbasin,Delayed,30,2109878,,,,7/15/2024,7/28/2024
+4620089416,I booked an e-catering service but the food was not delivered on time. The staff also did not provide any compensation for the delay.,Catering & vending Services,E-Catering,Escalated,31,1098769,,,,7/16/2024,7/29/2024
+4620089417,The security personnel in our train were not polite and were harassing a lady passenger. This was a very uncomfortable experience for us.,Security,Harassment/Extortion by Security Personnel/Railway personnel,Abandoned,32,8907659,,,,7/16/2024,7/30/2024
+4620089418,The coach was very dirty and there were cockroaches everywhere. The staff was not cleaning the coach regularly.,Coach Cleanliness,Cockroach / Rodents,Resolved,33,7685460,,,,7/17/2024,7/31/2024
+4620089419,I was not provided with a baby food service although I had booked it in advance. The staff was also not helpful in resolving this issue.,Facilities for women with special needs,Baby Food,Unresolved,34,6543670,,,,7/17/2024,8/1/2024
+4620089420,The train was delayed by 3 hours and the staff did not provide any updates on the delay. This was a very frustrating experience for us.,Punctuality,Late Running,Delayed,35,5432160,,,,7/18/2024,8/2/2024
+4620089421,The staff was not cooperative and was not helpful in resolving our issues. They were also not polite and were being very rude.,Staff Behaviour,Staff Behaviour,Escalated,36,4321090,,,,7/18/2024,8/3/2024
+4620089422,I was not provided with a retiring room although I had booked it in advance. The staff was also not helpful in resolving this issue.,Water Availability,Retiring Room / Waiting Room,Abandoned,37,3210981,,,,7/19/2024,8/4/2024
+4620089423,The train was delayed by 2 hours and the staff did not provide any updates on the delay. This was a very frustrating experience for us.,Punctuality,Late Running,Resolved,38,2109872,,,,7/19/2024,8/5/2024
+4620089424,The washbasin in our coach was clogged and there was no water available. The staff was also not cooperative in resolving the issue.,Coach Cleanliness,Washbasin,Escalated,39,1098763,,,,7/20/2024,8/6/2024
+4620089425,I was not provided with a bed roll although I had booked it in advance. The staff was also not helpful in resolving this issue.,Bed Roll,Non Availability,Abandoned,40,8907654,,,,7/20/2024,8/7/2024
+4620089426,The train was delayed by 3 hours and the staff did not provide any updates on the delay. This was a very frustrating experience for us.,Punctuality,Late Running,Resolved,41,7685465,,,,7/21/2024,8/8/2024
+4620089427,The staff was not cooperative and was not helpful in resolving our issues. They were also not polite and were being very rude.,Staff Behaviour,Staff Behaviour,Open,42,6543676,,,,7/21/2024,8/9/2024
+4620089428,I was not provided with a retiring room although I had booked it in advance. The staff was also not helpful in resolving this issue.,Water Availability,Retiring Room / Waiting Room,Closed,43,5432167,,,,7/22/2024,8/10/2024
+4620089429,The train was delayed by 2 hours and the staff did not provide any updates on the delay. This was a very frustrating experience for us.,Punctuality,Late Running,Investigated,44,4321096,,,,7/22/2024,8/11/2024
+4620089430,The washbasin in our coach was clogged and there was no water available. The staff was also not cooperative in resolving the issue.,Coach Cleanliness,Washbasin,Rejected,45,3210987,,,,7/23/2024,8/12/2024
+4620089431,I was not provided with a bed roll although I had booked it in advance. The staff was also not helpful in resolving this issue.,Bed Roll,Non Availability,Awaiting Response,46,2109878,,,,7/23/2024,8/13/2024
+4620089432,The train was delayed by 3 hours and the staff did not provide any updates on the delay. This was a very frustrating experience for us.,Punctuality,Late Running,Solved,47,1098769,,,,7/24/2024,8/14/2024
+4620089433,The staff was not cooperative and was not helpful in resolving our issues. They were also not polite and were being very rude.,Staff Behaviour,Staff Behaviour,Awaiting Response,48,8907659,,,,7/24/2024,8/15/2024
+4620089434,I was not provided with a retiring room although I had booked it in advance. The staff was also not helpful in resolving this issue.,Water Availability,Retiring Room / Waiting Room,Rejected,49,7685460,,,,7/25/2024,8/16/2024
+4620089435,The train was delayed by 2 hours and the staff did not provide any updates on the delay. This was a very frustrating experience for us.,Punctuality,Late Running,Solved,50,6543670,,,,7/25/2024,8/17/2024
+4620089420,The AC in the coach was not working properly. The temperature was too high and the air was stale.,Coach Comfort,AC Malfunction,Under Investigation,51,6789016,,,,7/26/2024,
+4620089421,The toilet was dirty and unhygienic. There was no water supply and the toilet was clogged.,Coach Cleanliness,Toilet Condition,Closed,52,7890127,,,,7/27/2024,
+4620089422,The train was delayed by several hours without any proper information or updates from the railway authorities.,Punctuality,Delay & Cancellation,Resolved,53,8901238,,,,7/28/2024,
+4620089423,The staff was rude and unhelpful. They did not respond to our queries and complaints.,Staff Behavior,Unprofessional Behavior,Awaiting Response,54,9012349,,,,7/29/2024,
+4620089424,The seats were uncomfortable and dirty. The upholstery was torn and the cushioning was worn out.,Coach Comfort,Seat Condition,In Progress,55,123450,,,,7/30/2024,
+4620089425,The train was overcrowded and there were no proper arrangements for passengers.,Micellaneous,Overcrowding,Closed,56,1234561,,,,7/31/2024,
+4620089426,The food served in the pantry car was overpriced and of poor quality. The quantity was also insufficient.,Catering & Vending Services,Food Quality & Quantity,Under Investigation,57,2345672,,,,8/1/2024,
+4620089427,"The coach windows were dirty and foggy, obstructing the view outside.",Coach Comfort,Window Condition,Resolved,58,3456783,,,,8/2/2024,
+4620089428,"The train was frequently stopping at stations, causing unnecessary delays in the journey.",Punctuality,Late Running,Awaiting Response,59,4567894,,,,8/3/2024,
+4620089429,"The lights in the coach were not working properly, making it difficult to read or see at night.",Coach Comfort,Lighting Malfunction,In Progress,60,5678905,,,,8/4/2024,
+4620089430,"The coach doors were not closing properly, leading to noise and dust entering the coach.",Coach Comfort,Door Malfunction,Closed,61,6789016,,,,8/5/2024,
+4620089431,The train was running late and the railway authorities did not provide any timely updates.,Punctuality,Late Running,Under Investigation,62,7890127,,,,8/6/2024,
+4620089432,The staff was not wearing proper uniforms and their behavior was unprofessional.,Staff Behavior,Unprofessional Behavior,Resolved,63,8901238,,,,8/7/2024,
+4620089433,The water in the water dispenser was not clean and had a foul smell.,Coach Comfort,Water Quality,Awaiting Response,64,9012349,,,,8/8/2024,
+4620089434,The coach was not cleaned properly and there was litter and dust everywhere.,Coach Cleanliness,General Cleanliness,In Progress,65,123450,,,,8/9/2024,
+4620089415,"The washbasin in the coach was not functioning properly. It was leaking water everywhere, making the floor slippery. The coach interior was also dirty, with stains on the seats. We had to wait for a long time to get a clean coach. The staff was unresponsive to our complaints.",Coach Cleanliness,Coach Interior,Closed,66,1234561,,,,8/10/2024,
+4620089416,The food served in the train was not hygienic. It was overpriced and the quality was poor. The staff was not helpful in resolving the issue.,Catering & vending Services,Service Quality & Hygiene,Under Investigation,67,2345672,,,,8/11/2024,
+4620089417,"The divyangjan coach was not available. We had to travel in a general coach, which was not suitable for our needs. The staff was not aware of the facility and could not provide any assistance.",Divyangjan Facilities,Divyangjan coach unavailability,Resolved,68,3456783,,,,8/12/2024,
+4620089418,The water vending machines were not working. We had to purchase bottled water at an inflated price. The staff was not responsive to our complaints.,Water Availability,Water Vending Machines,Awaiting Response,69,4567894,,,,8/13/2024,
+4620089419,"The coach exterior was dirty, with graffiti and stains. The staff was not taking any action to clean the coach.",Coach Cleanliness,Coach Exterior,In Progress,70,5678905,,,,8/14/2024,
+4620089420,The AC in the coach was not working properly. The temperature was too high and the air was stale.,Coach Comfort,AC Malfunction,Under Investigation,71,6789016,,,,8/15/2024,
+4620089421,The toilet was dirty and unhygienic. There was no water supply and the toilet was clogged.,Coach Cleanliness,Toilet Condition,Closed,72,7890127,,,,8/16/2024,
+4620089422,The train was delayed by several hours without any proper information or updates from the railway authorities.,Punctuality,Late Running,Resolved,73,8901238,,,,8/17/2024,
+4620089423,The staff was rude and unhelpful. They did not respond to our queries and complaints.,Staff Behaviour,Staff Behaviour,Awaiting Response,74,9012349,,,,8/18/2024,
+4620089424,The seats were uncomfortable and dirty. The upholstery was torn and the cushioning was worn out.,Coach Comfort,Seat Condition,In Progress,75,123450,,,,8/19/2024,
+4620089425,The train was overcrowded and there were no proper arrangements for passengers.,Security,Nuisance by Passenger,Closed,76,1234561,,,,8/20/2024,
+4620089426,The food served in the pantry car was overpriced and of poor quality. The quantity was also insufficient.,Catering & vending Services,Food Quality & Quantity,Under Investigation,77,2345672,,,,8/21/2024,
+4620089427,"The coach windows were dirty and foggy, obstructing the view outside.",Coach Maintenance,Window/Seat Broken,Resolved,78,3456783,,,,8/22/2024,
+4620089428,"The train was frequently stopping at stations, causing unnecessary delays in the journey.",Punctuality,Others,Awaiting Response,79,4567894,,,,8/23/2024,
+4620089429,"The lights in the coach were not working properly, making it difficult to read or see at night.",Coach Maintenance,Others,In Progress,80,5678905,,,,8/24/2024,
+4620089430,"The coach doors were not closing properly, leading to noise and dust entering the coach.",Coach Maintenance,Window/Door locking problem,Closed,81,6789016,,,,8/25/2024,
+4620089431,The train was running late and the railway authorities did not provide any timely updates.,Punctuality,Late Running,Under Investigation,82,7890127,,,,8/26/2024,
+4620089432,The staff was not wearing proper uniforms and their behavior was unprofessional.,Staff Behaviour,Staff Behaviour,Resolved,83,8901238,,,,8/27/2024,
+4620089433,The water in the water dispenser was not clean and had a foul smell.,Water Availability,Toilet,Awaiting Response,84,9012349,,,,8/28/2024,
+4620089434,The coach was not cleaned properly and there was litter and dust everywhere.,Coach Cleanliness,General Cleanliness,In Progress,85,123450,,,,8/29/2024,
+4620089435,The AC in the coach was not working properly. The temperature was too high and the air was stale.,Coach Comfort,AC Malfunction,Under Investigation,86,1234561,,,,8/30/2024,
+4620089436,The toilet was dirty and stinky. There was no water supply and the toilet was clogged.,Coach Cleanliness,Toilet Condition,Closed,87,2345672,,,,8/31/2024,
+4620089437,The train was delayed by several hours without any proper information or updates from the railway authorities.,Punctuality,Late Running,Resolved,88,3456783,,,,9/1/2024,
+4620089438,The staff was rude and unhelpful. They did not respond to our queries and complaints.,Staff Behaviour,Staff Behaviour,Awaiting Response,89,4567894,,,,9/2/2024,
+4620089439,The seats were uncomfortable and dirty. The upholstery was torn and the cushioning was worn out.,Coach Comfort,Seat Condition,In Progress,90,5678905,,,,9/3/2024,
+4620089440,The train was overcrowded and there were no proper arrangements for passengers.,Security,Nuisance by Passenger,Closed,91,6789016,,,,9/4/2024,
+4620089441,The food served in the pantry car was overpriced and of poor quality. The quantity was also insufficient.,Catering & vending Services,Food Quality & Quantity,Under Investigation,92,7890127,,,,9/5/2024,
+4620089442,"The coach windows were dirty and foggy, obstructing the view outside.",Coach Maintenance,Window/Seat Broken,Resolved,93,8901238,,,,9/6/2024,
+4620089443,"The train was frequently stopping at stations, causing unnecessary delays in the journey.",Punctuality,Others,Awaiting Response,94,9012349,,,,9/7/2024,
+4620089444,"The lights in the coach were not working properly, making it difficult to read or see at night.",Coach Maintenance,Others,In Progress,95,123450,,,,9/8/2024,
+4620089445,"The coach doors were not closing properly, leading to noise and dust entering the coach.",Coach Maintenance,Window/Door locking problem,Closed,96,1234561,,,,9/9/2024,
+4620089446,The train was running late and the railway authorities did not provide any timely updates.,Punctuality,Late Running,Under Investigation,97,2345672,,,,9/10/2024,
+4620089447,The staff was not wearing proper uniforms and their behavior was unprofessional.,Staff Behaviour,Staff Behaviour,Resolved,98,3456783,,,,9/11/2024,
+4620089448,The water in the water dispenser was not clean and had a foul smell.,Water Availability,Toilet,Awaiting Response,99,4567894,,,,9/12/2024,
+4620089449,The coach was not cleaned properly and there was litter and dust everywhere.,Coach Cleanliness,General Cleanliness,In Progress,100,5678905,,,,9/13/2024,
+4620089450,The AC in the coach was not working properly. The temperature was too high and the air was stale.,Coach Comfort,AC Malfunction,Under Investigation,101,6789016,,,,9/14/2024,
+4620089451,The toilet was dirty and stinky. There was no water supply and the toilet was clogged.,Coach Cleanliness,Toilet Condition,Closed,102,7890127,,,,9/15/2024,
+4620089452,The train was delayed by several hours without any proper information or updates from the railway authorities.,Punctuality,Late Running,Resolved,103,8901238,,,,9/16/2024,
+4620089453,The staff was rude and unhelpful. They did not respond to our queries and complaints.,Staff Behaviour,Staff Behaviour,Awaiting Response,104,9012349,,,,9/17/2024,
+4620089454,The seats were uncomfortable and dirty. The upholstery was torn and the cushioning was worn out.,Coach Comfort,Seat Condition,In Progress,105,123450,,,,9/18/2024,
+4620089455,The train was overcrowded and there were no proper arrangements for passengers.,Security,Nuisance by Passenger,Closed,106,1234561,,,,9/19/2024,
+4620089456,The food served in the pantry car was overpriced and of poor quality. The quantity was also insufficient.,Catering & vending Services,Food Quality & Quantity,Under Investigation,107,2345672,,,,9/20/2024,
+4620089457,"The coach windows were dirty and foggy, obstructing the view outside.",Coach Maintenance,Window/Seat Broken,Resolved,108,3456783,,,,9/21/2024,
+4620089458,"The train was frequently stopping at stations, causing unnecessary delays in the journey.",Punctuality,Others,Awaiting Response,109,4567894,,,,9/22/2024,
+4620089459,"The lights in the coach were not working properly, making it difficult to read or see at night.",Coach Maintenance,Others,In Progress,110,5678905,,,,9/23/2024,
+4620089460,"The coach doors were not closing properly, leading to noise and dust entering the coach.",Coach Maintenance,Window/Door locking problem,Closed,111,6789016,,,,9/24/2024,
+4620089461,The train was running late and the railway authorities did not provide any timely updates.,Punctuality,Late Running,Under Investigation,112,7890127,,,,9/25/2024,
+4620089462,The staff was not wearing proper uniforms and their behavior was unprofessional.,Staff Behaviour,Staff Behaviour,Resolved,113,8901238,,,,9/26/2024,
+4620089463,The water in the water dispenser was not clean and had a foul smell.,Water Availability,Toilet,Awaiting Response,114,9012349,,,,9/27/2024,
+4620089464,The coach was not cleaned properly and there was litter and dust everywhere.,Coach Cleanliness,General Cleanliness,In Progress,115,123450,,,,9/28/2024,
+4620089465,The AC in the coach was not working properly. The temperature was too high and the air was stale.,Coach Comfort,AC Malfunction,Under Investigation,116,1234561,,,,9/29/2024,
+4620089466,The toilet was dirty and stinky. There was no water supply and the toilet was clogged.,Coach Cleanliness,Toilet Condition,Closed,117,2345672,,,,9/30/2024,
+4620089467,The train was delayed by several hours without any proper information or updates from the railway authorities.,Punctuality,Late Running,Resolved,118,3456783,,,,10/1/2024,
+4620089468,The staff was rude and unhelpful. They did not respond to our queries and complaints.,Staff Behaviour,Staff Behaviour,Awaiting Response,119,4567894,,,,10/2/2024,
+4620089469,The seats were uncomfortable and dirty. The upholstery was torn and the cushioning was worn out.,Coach Comfort,Seat Condition,In Progress,120,5678905,,,,10/3/2024,
+4620089470,The train was overcrowded and there were no proper arrangements for passengers.,Security,Nuisance by Passenger,Closed,121,6789016,,,,10/4/2024,
+4620089471,The food served in the pantry car was overpriced and of poor quality. The quantity was also insufficient.,Catering & vending Services,Food Quality & Quantity,Under Investigation,122,7890127,,,,10/5/2024,
+4620089472,"The coach windows were dirty and foggy, obstructing the view outside.",Coach Maintenance,Window/Seat Broken,Resolved,123,8901238,,,,10/6/2024,
+4620089473,"The train was frequently stopping at stations, causing unnecessary delays in the journey.",Punctuality,Others,Awaiting Response,124,9012349,,,,10/7/2024,
+4620089474,"The lights in the coach were not working properly, making it difficult to read or see at night.",Coach Maintenance,Others,In Progress,125,123450,,,,10/8/2024,
+4620089475,"The coach doors were not closing properly, leading to noise and dust entering the coach.",Coach Maintenance,Window/Door locking problem,Closed,126,1234561,,,,10/9/2024,
+4620089476,The train was running late and the railway authorities did not provide any timely updates.,Punctuality,Late Running,Under Investigation,127,2345672,,,,10/10/2024,
+4620089477,The staff was not wearing proper uniforms and their behavior was unprofessional.,Staff Behaviour,Staff Behaviour,Resolved,128,3456783,,,,10/11/2024,
+4620089478,The water in the water dispenser was not clean and had a foul smell.,Water Availability,Toilet,Awaiting Response,129,4567894,,,,10/12/2024,
+4620089479,The coach was not cleaned properly and there was litter and dust everywhere.,Coach Cleanliness,General Cleanliness,In Progress,130,5678905,,,,10/13/2024,
+4620089480,The AC in the coach was not working properly. The temperature was too high and the air was stale.,Coach Comfort,AC Malfunction,Under Investigation,131,6789016,,,,10/14/2024,
+4620089481,The toilet was dirty and stinky. There was no water supply and the toilet was clogged.,Coach Cleanliness,Toilet Condition,Closed,132,7890127,,,,10/15/2024,
+4620089482,The train was delayed by several hours without any proper information or updates from the railway authorities.,Punctuality,Late Running,Resolved,133,8901238,,,,10/16/2024,
+4620089483,The staff was rude and unhelpful. They did not respond to our queries and complaints.,Staff Behaviour,Staff Behaviour,Awaiting Response,134,9012349,,,,10/17/2024,
+4620089484,The seats were uncomfortable and dirty. The upholstery was torn and the cushioning was worn out.,Coach Comfort,Seat Condition,In Progress,135,123450,,,,10/18/2024,
+4620089485,The train was overcrowded and there were no proper arrangements for passengers.,Security,Nuisance by Passenger,Closed,136,1234561,,,,10/19/2024,
+4620089487,"The coach windows were dirty and foggy, obstructing the view outside.",Coach Maintenance,Window/Seat Broken,Resolved,137,2345672,,,,10/20/2024,
+4620089488,"The train was frequently stopping at stations, causing unnecessary delays in the journey.",Punctuality,Others,Awaiting Response,138,3456783,,,,10/21/2024,
+4620089489,"The lights in the coach were not working properly, making it difficult to read or see at night.",Coach Maintenance,Others,In Progress,139,4567894,,,,10/22/2024,
+4620089490,"The coach doors were not closing properly, leading to noise and dust entering the coach.",Coach Maintenance,Window/Door locking problem,Closed,140,5678905,,,,10/23/2024,
+4620089491,The train was running late and the railway authorities did not provide any timely updates.,Punctuality,Late Running,Under Investigation,141,6789016,,,,10/24/2024,
+4620089492,The staff was not wearing proper uniforms and their behavior was unprofessional.,Staff Behaviour,Staff Behaviour,Resolved,142,7890127,,,,10/25/2024,
+4620089493,The water in the water dispenser was not clean and had a foul smell.,Water Availability,Toilet,Awaiting Response,143,8901238,,,,10/26/2024,
+4620089494,The coach was not cleaned properly and there was litter and dust everywhere.,Coach Cleanliness,General Cleanliness,In Progress,144,9012349,,,,10/27/2024,
+4620089495,The AC in the coach was not working properly. The temperature was too high and the air was stale.,Coach Comfort,AC Malfunction,Under Investigation,145,123450,,,,10/28/2024,
+4620089496,The toilet was dirty and stinky. There was no water supply and the toilet was clogged.,Coach Cleanliness,Toilet Condition,Closed,146,1234561,,,,10/29/2024,
+4620089497,The train was delayed by several hours without any proper information or updates from the railway authorities.,Punctuality,Late Running,Resolved,147,2345672,,,,10/30/2024,
+4620089498,The staff was rude and unhelpful. They did not respond to our queries and complaints.,Staff Behaviour,Staff Behaviour,Awaiting Response,148,3456783,,,,10/31/2024,
+4620089499,The seats were uncomfortable and dirty. The upholstery was torn and the cushioning was worn out.,Coach Comfort,Seat Condition,In Progress,149,4567894,,,,11/1/2024,
+4620089500,The train was overcrowded and there were no proper arrangements for passengers.,Security,Nuisance by Passenger,Closed,150,5678905,,,,11/2/2024,
+4620089501,The food served in the pantry car was overpriced and of poor quality. The quantity was also insufficient.,Catering & vending Services,Food Quality & Quantity,Under Investigation,151,6789016,,,,11/3/2024,
+4620089502,"The coach windows were dirty and foggy, obstructing the view outside.",Coach Maintenance,Window/Seat Broken,Resolved,152,7890127,,,,11/4/2024,
+4620089503,"The train was frequently stopping at stations, causing unnecessary delays in the journey.",Punctuality,Others,Awaiting Response,153,8901238,,,,11/5/2024,
+4620089504,"The lights in the coach were not working properly, making it difficult to read or see at night.",Coach Maintenance,Others,In Progress,154,9012349,,,,11/6/2024,
+4620089505,"The coach doors were not closing properly, leading to noise and dust entering the coach.",Coach Maintenance,Window/Door locking problem,Closed,155,123450,,,,11/7/2024,
+4620089506,The train was running late and the railway authorities did not provide any timely updates.,Punctuality,Late Running,Under Investigation,156,1234561,,,,11/8/2024,
+4620089507,The staff was not wearing proper uniforms and their behavior was unprofessional.,Staff Behaviour,Staff Behaviour,Resolved,157,2345672,,,,11/9/2024,
+4620089508,The water in the water dispenser was not clean and had a foul smell.,Water Availability,Toilet,Awaiting Response,158,3456783,,,,11/10/2024,
+4620089509,The coach was not cleaned properly and there was litter and dust everywhere.,Coach Cleanliness,General Cleanliness,In Progress,159,4567894,,,,11/11/2024,
+4620089510,The AC in the coach was not working properly. The temperature was too high and the air was stale.,Coach Comfort,AC Malfunction,Under Investigation,160,5678905,,,,11/12/2024,
+4620089511,The toilet was dirty and stinky. There was no water supply and the toilet was clogged.,Coach Cleanliness,Toilet Condition,Closed,161,6789016,,,,11/13/2024,
+4620089512,The train was delayed by several hours without any proper information or updates from the railway authorities.,Punctuality,Late Running,Resolved,162,7890127,,,,11/14/2024,
+4620089513,The staff was rude and unhelpful. They did not respond to our queries and complaints.,Staff Behaviour,Staff Behaviour,Awaiting Response,163,8901238,,,,11/15/2024,
+4620089514,The seats were uncomfortable and dirty. The upholstery was torn and the cushioning was worn out.,Coach Comfort,Seat Condition,In Progress,164,9012349,,,,11/16/2024,
+4620089515,The train was overcrowded and there were no proper arrangements for passengers.,Security,Nuisance by Passenger,Closed,165,123450,,,,11/17/2024,
+4620089516,The food served in the pantry car was overpriced and of poor quality. The quantity was also insufficient.,Catering & vending Services,Food Quality & Quantity,Under Investigation,166,1234561,,,,11/18/2024,
+4620089517,"The coach windows were dirty and foggy, obstructing the view outside.",Coach Maintenance,Window/Seat Broken,Resolved,167,2345672,,,,11/19/2024,
+4620089518,"The train was frequently stopping at stations, causing unnecessary delays in the journey.",Punctuality,Others,Awaiting Response,168,3456783,,,,11/20/2024,
+4620089519,"The lights in the coach were not working properly, making it difficult to read or see at night.",Coach Maintenance,Others,In Progress,169,4567894,,,,11/21/2024,
+4620089520,"The coach doors were not closing properly, leading to noise and dust entering the coach.",Coach Maintenance,Window/Door locking problem,Closed,170,5678905,,,,11/22/2024,
+4620089521,The train was running late and the railway authorities did not provide any timely updates.,Punctuality,Late Running,Under Investigation,171,6789016,,,,11/23/2024,
+4620089522,The staff was not wearing proper uniforms and their behavior was unprofessional.,Staff Behaviour,Staff Behaviour,Resolved,172,7890127,,,,11/24/2024,
+4620089524,The coach was not cleaned properly and there was litter and dust everywhere.,Coach Cleanliness,General Cleanliness,In Progress,173,8901238,,,,11/25/2024,
+4620089525,The AC in the coach was not working properly. The temperature was too high and the air was stale.,Coach Comfort,AC Malfunction,Under Investigation,174,9012349,,,,10/13/2024,
+4620089526,The toilet was dirty and stinky. There was no water supply and the toilet was clogged.,Coach Cleanliness,Toilet Condition,Closed,175,123450,,,,10/14/2024,
+4620089527,The train was delayed by several hours without any proper information or updates from the railway authorities.,Punctuality,Late Running,Resolved,176,1234561,,,,10/15/2024,
+4620089528,The staff was rude and unhelpful. They did not respond to our queries and complaints.,Staff Behaviour,Staff Behaviour,Awaiting Response,177,2345672,,,,10/16/2024,
+4620089529,The seats were uncomfortable and dirty. The upholstery was torn and the cushioning was worn out.,Coach Comfort,Seat Condition,In Progress,178,3456783,,,,10/17/2024,
+4620089530,The train was overcrowded and there were no proper arrangements for passengers.,Security,Nuisance by Passenger,Closed,179,4567894,,,,10/18/2024,
+4620089531,The food served in the pantry car was overpriced and of poor quality. The quantity was also insufficient.,Catering & vending Services,Food Quality & Quantity,Under Investigation,180,5678905,,,,10/19/2024,
+4620089532,"The coach windows were dirty and foggy, obstructing the view outside.",Coach Maintenance,Window/Seat Broken,Resolved,181,6789016,,,,10/20/2024,
+4620089533,"The train was frequently stopping at stations, causing unnecessary delays in the journey.",Punctuality,Others,Awaiting Response,182,7890127,,,,10/21/2024,
+4620089534,"The lights in the coach were not working properly, making it difficult to read or see at night.",Coach Maintenance,Others,In Progress,183,8901238,,,,10/22/2024,
+4620089535,"The coach doors were not closing properly, leading to noise and dust entering the coach.",Coach Maintenance,Window/Door locking problem,Closed,184,9012349,,,,10/23/2024,
+4620089536,The train was running late and the railway authorities did not provide any timely updates.,Punctuality,Late Running,Under Investigation,185,123450,,,,10/24/2024,
+4620089537,The staff was not wearing proper uniforms and their behavior was unprofessional.,Staff Behaviour,Staff Behaviour,Resolved,186,1234561,,,,10/25/2024,
+4620089538,The water in the water dispenser was not clean and had a foul smell.,Water Availability,Toilet,Awaiting Response,187,2345672,,,,10/26/2024,
+4620089539,The coach was not cleaned properly and there was litter and dust everywhere.,Coach Cleanliness,General Cleanliness,In Progress,188,3456783,,,,10/27/2024,
+4620089540,The AC in the coach was not working properly. The temperature was too high and the air was stale.,Coach Comfort,AC Malfunction,Under Investigation,189,4567894,,,,10/28/2024,
+4620089541,The toilet was dirty and stinky. There was no water supply and the toilet was clogged.,Coach Cleanliness,Toilet Condition,Closed,190,5678905,,,,10/29/2024,
+4620089542,The train was delayed by several hours without any proper information or updates from the railway authorities.,Punctuality,Late Running,Resolved,191,6789016,,,,10/30/2024,
+4620089543,The staff was rude and unhelpful. They did not respond to our queries and complaints.,Staff Behaviour,Staff Behaviour,Awaiting Response,192,7890127,,,,10/31/2024,
+4620089544,The seats were uncomfortable and dirty. The upholstery was torn and the cushioning was worn out.,Coach Comfort,Seat Condition,In Progress,193,8901238,,,,11/1/2024,
+4620089545,The train was overcrowded and there were no proper arrangements for passengers.,Security,Nuisance by Passenger,Closed,194,9012349,,,,11/2/2024,
+4620089546,The food served in the pantry car was overpriced and of poor quality. The quantity was also insufficient.,Catering & vending Services,Food Quality & Quantity,Under Investigation,195,123450,,,,11/3/2024,
+4620089547,"The coach windows were dirty and foggy, obstructing the view outside.",Coach Maintenance,Window/Seat Broken,Resolved,196,1234561,,,,11/4/2024,
+4620089548,"The train was frequently stopping at stations, causing unnecessary delays in the journey.",Punctuality,Others,Awaiting Response,197,2345672,,,,11/5/2024,
+4620089549,"The lights in the coach were not working properly, making it difficult to read or see at night.",Coach Maintenance,Others,In Progress,198,3456783,,,,11/6/2024,
+4620089550,"The coach doors were not closing properly, leading to noise and dust entering the coach.",Coach Maintenance,Window/Door locking problem,Closed,199,4567894,,,,11/7/2024,
+4620089551,The train was running late and the railway authorities did not provide any timely updates.,Punctuality,Late Running,Under Investigation,200,5678905,,,,11/8/2024,
+4620089552,The staff was not wearing proper uniforms and their behavior was unprofessional.,Staff Behaviour,Staff Behaviour,Resolved,201,6789016,,,,11/9/2024,
+4620089553,The water in the water dispenser was not clean and had a foul smell.,Water Availability,Toilet,Awaiting Response,202,7890127,,,,11/10/2024,
+4620089554,The coach was not cleaned properly and there was litter and dust everywhere.,Coach Cleanliness,General Cleanliness,In Progress,203,8901238,,,,11/11/2024,
+4620089555,The AC in the coach was not working properly. The temperature was too high and the air was stale.,Coach Comfort,AC Malfunction,Under Investigation,204,9012349,,,,11/12/2024,
+4620089556,The toilet was dirty and stinky. There was no water supply and the toilet was clogged.,Coach Cleanliness,Toilet Condition,Closed,205,123450,,,,11/13/2024,
+4620089557,The train was delayed by several hours without any proper information or updates from the railway authorities.,Punctuality,Late Running,Resolved,206,1234561,,,,11/14/2024,
+4620089558,The staff was rude and unhelpful. They did not respond to our queries and complaints.,Staff Behaviour,Staff Behaviour,Awaiting Response,207,2345672,,,,11/15/2024,
