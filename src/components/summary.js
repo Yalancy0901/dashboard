@@ -1,31 +1,8 @@
 import React from 'react';
 import { Box, Grid, Typography, Card, CardContent } from '@mui/material';
-import { Line } from 'react-chartjs-2';
-import { Chart as ChartJS, CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend } from 'chart.js';
-
-// Register necessary components for Chart.js
-ChartJS.register(CategoryScale, LinearScale, PointElement, LineElement, Title, Tooltip, Legend);
+import TestChart from './prediction'
 
 const Dashboard = () => {
-  const data = {
-    labels: ['Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep'],
-    datasets: [
-      { label: 'Website', data: [200, 150, 180, 120, 160, 180, 220], borderColor: '#42a5f5', fill: false },
-      { label: 'Mobile App', data: [100, 130, 110, 140, 130, 170, 190], borderColor: '#66bb6a', fill: false },
-      { label: 'IVR', data: [50, 90, 70, 100, 90, 110, 130], borderColor: '#ffca28', fill: false },
-      { label: 'Twitter', data: [60, 70, 90, 80, 100, 130, 160], borderColor: '#ef5350', fill: false },
-    ],
-  };
-
-  const options = {
-    responsive: true,
-    plugins: {
-      legend: {
-        position: 'top',
-      },
-    },
-  };
-
   return (
     <Box>
       <Typography variant="h4" gutterBottom>Rail Madad 2.0</Typography>
@@ -63,16 +40,7 @@ const Dashboard = () => {
           </Card>
         </Grid>
       </Grid>
-
-      <Box sx={{ mt: 4 }}>
-        <Typography variant="h6" gutterBottom>Complaint Platforms</Typography>
-        <Card sx={{ bgcolor: '#333' }}>
-          <CardContent>
-            <Line data={data} options={options} />
-          </CardContent>
-        </Card>
-      </Box>
-
+      <TestChart></TestChart>
       <Grid container spacing={2} sx={{ mt: 4 }}>
         {['Website', 'Mobile App', 'IVR', 'Twitter'].map((platform, index) => (
           <Grid item xs={3} key={index}>
